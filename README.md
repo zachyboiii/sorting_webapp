@@ -3,8 +3,8 @@
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Mini Project 1: Sorting App](#mini-project-1-sorting-app)
-    - [Learning Objectives](#learning-objectives)
+- [Sorting App](#sorting-app)
+    - [Summary](#summary)
     - [Setup](#setup)
         - [Install Git](#install-git)
         - [Downloading Repository](#downloading-repository)
