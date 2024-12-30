@@ -1,4 +1,4 @@
-# Mini Project 1: Sorting App
+# Sorting App
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
@@ -25,10 +25,9 @@
 <!-- markdown-toc end -->
 
 
-## Learning Objectives
-In this mini project, you will develop a web app to sort numbers. By the end of this assignment, you should be able to:
-- Create a simple web app using Flask web framework
-- Use Transcrypt Python library to create front-end web script with Python
+## Summary
+- Created a simple web app using Flask web framework
+- Used Transcrypt Python library to create front-end web script with Python
 - Run a localhost web server 
 
 ## Setup
