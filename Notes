@@ -1,0 +1,11 @@
+CLI Commands
+
+cd -- change directory
+ls/dir -- list files in directory
+
+pipenv shell -- activate virtual environment
+exit -- exit venv
+
+Jinjja Syntax
+
+{{variablename}}
